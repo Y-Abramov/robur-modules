@@ -1,0 +1,84 @@
+[
+  {
+    "name":          "abr-modules",
+    "title":         "Библиотека модулей",
+    "version":       "2.0.0",
+    "description":   "Установка и обновление модулей ABR для Топоматик Robur.",
+    "author":        "Yaroslav I. Abramov",
+    "tpm_url":       "https://github.com/Y-Abramov/abrmodules/releases/download/v2.0.0/AbrModules-2.0.0.tpm",
+    "tpm_sha256":    "c33f2c09082715ae33ea301f2c325af3a63370cb547b4f382f5343c2aee248a0",
+    "help_url":      "https://abrmove.ru",
+    "min_version":   "16.0.62.12",
+    "compatibility": [
+      "Топоматик Robur — Автомобильные дороги",
+      "Топоматик Robur — Изыскания",
+      "Топоматик Robur — Железные дороги",
+      "Топоматик Robur — Искусственные сооружения",
+      "Топоматик Robur — Инженерные сети",
+      "Топоматик Robur — Генеральные планы"
+    ]
+  },
+  {
+    "name":          "road-style",
+    "title":         "Диспетчер стилей",
+    "version":       "1.0.2",
+    "description":   "Инструменты для управления конфигурациями слоёв и стилями отображения дорог. Применение, импорт и экспорт конфигураций, копирование настроек отображения трасс.",
+    "author":        "Yaroslav I. Abramov",
+    "tpm_url":       "https://github.com/Y-Abramov/RoadStyle/releases/download/v1.0.2/RoadStyle-1.0.2.tpm",
+    "tpm_sha256":    "83d44dc11ad895f4b2389826d3e10f91a617a1a7f9ab769f5d914885637938d9",
+    "min_version":   "16.0.62.12",
+    "compatibility": [
+      "Топоматик Robur — Автомобильные дороги"
+    ]
+  },
+  {
+    "name":          "cursor-sync",
+    "title":         "Отслеживание курсора",
+    "version":       "1.0.0",
+    "description":   "Инструменты для работы с видами плана и профиля. Синхронизация курсора между планом и продольным профилем.",
+    "author":        "Yaroslav I. Abramov",
+    "tpm_url":       "https://github.com/Y-Abramov/cursorsync/releases/download/v1.0.0/CursorSync-1.0.0.tpm",
+    "tpm_sha256":    "1e94417ee2b748b9a13a89a8280e10eb576128196e15e8de85850e2f667765d9",
+    "min_version":   "16.0.62.12",
+    "compatibility": [
+      "Топоматик Robur — Автомобильные дороги",
+      "Топоматик Robur — Железные дороги"
+    ]
+  },
+  {
+    "name":          "model-desk",
+    "title":         "Диспетчер моделей",
+    "version":       "1.1.0",
+    "description":   "Диспетчер моделей проекта: список с фильтрацией по типу, управление видимостью, массовое переименование, статистика.",
+    "author":        "Yaroslav I. Abramov",
+    "tpm_url":       "https://github.com/Y-Abramov/ModelDesk/releases/download/v1.1.0/ModelDesk-1.1.0.tpm",
+    "tpm_sha256":    "8938ccf8ec43d14d0ffdc5811a7707c0b0ff6e028ee9a5a2253827bb861710a4",
+    "min_version":   "16.0.62.12",
+    "compatibility": [
+      "Топоматик Robur — Автомобильные дороги",
+      "Топоматик Robur — Изыскания",
+      "Топоматик Robur — Железные дороги",
+      "Топоматик Robur — Искусственные сооружения",
+      "Топоматик Robur — Инженерные сети",
+      "Топоматик Robur — Генеральные планы"
+    ]
+  },
+  {
+    "name":          "quick-commands",
+    "title":         "Быстрые команды",
+    "version":       "1.0.0",
+    "description":   "Быстрый запуск команд Robur: палитра с поиском и опциональные нативные быстрые команды. Категории, импорт/экспорт наборов, защита от конфликтов имён.",
+    "author":        "Yaroslav I. Abramov",
+    "tpm_url":       "https://github.com/Y-Abramov/quickcommands/releases/download/v1.0.0/QuickCommands-1.0.0.tpm",
+    "tpm_sha256":    "b9e02e156686005dfab2765439c2662a866b0a16272b848582c0cbfc48c0c9d4",
+    "min_version":   "16.0.62.12",
+    "compatibility": [
+      "Топоматик Robur — Автомобильные дороги",
+      "Топоматик Robur — Изыскания",
+      "Топоматик Robur — Железные дороги",
+      "Топоматик Robur — Искусственные сооружения",
+      "Топоматик Robur — Инженерные сети",
+      "Топоматик Robur — Генеральные планы"
+    ]
+  }
+]
