@@ -3,7 +3,7 @@
     "name":          "abr-modules",
     "title":         "Библиотека модулей",
     "version":       "2.0.0",
-    "description":   "Установка и обновление модулей ABR для Топоматик Robur.",
+    "description":   "Общий компонент ABR: даёт вкладку и обновления всех модулей. При удалении все модули ABR исчезнут.",
     "author":        "Yaroslav I. Abramov",
     "tpm_url":       "https://github.com/Y-Abramov/abrmodules/releases/download/v2.0.0/AbrModules-2.0.0.tpm",
     "tpm_sha256":    "c33f2c09082715ae33ea301f2c325af3a63370cb547b4f382f5343c2aee248a0",
