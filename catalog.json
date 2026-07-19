@@ -20,11 +20,11 @@
   {
     "name":          "road-style",
     "title":         "Диспетчер стилей",
-    "version":       "1.0.2",
-    "description":   "Инструменты для управления конфигурациями слоёв и стилями отображения дорог. Применение, импорт и экспорт конфигураций, копирование настроек отображения трасс.",
+    "version":       "1.0.3",
+    "description":   "Инструменты для управления конфигурациями слоёв и стилями отображения дорог. Применение, импорт и экспорт конфигураций, копирование настроек отображения трасс. Интерфейс диалогов переработан в едином фирменном стиле ABR.",
     "author":        "Yaroslav I. Abramov",
-    "tpm_url":       "https://github.com/Y-Abramov/RoadStyle/releases/download/v1.0.2/RoadStyle-1.0.2.tpm",
-    "tpm_sha256":    "83d44dc11ad895f4b2389826d3e10f91a617a1a7f9ab769f5d914885637938d9",
+    "tpm_url":       "https://github.com/Y-Abramov/RoadStyle/releases/download/v1.0.3/RoadStyle-1.0.3.tpm",
+    "tpm_sha256":    "219b8ceed348a2b69893b3fe356ae2f4f8c78c7e11e54ba5661f9bfee7b8a436",
     "min_version":   "16.0.62.12",
     "compatibility": [
       "Топоматик Robur — Автомобильные дороги"
@@ -33,11 +33,11 @@
   {
     "name":          "cursor-sync",
     "title":         "Отслеживание курсора",
-    "version":       "1.0.0",
-    "description":   "Инструменты для работы с видами плана и профиля. Синхронизация курсора между планом и продольным профилем.",
+    "version":       "1.1.0",
+    "description":   "Синхронизация курсора между планом и профилем: дороги, железные дороги, инженерные сети (профиль ветки) и профиль сечения структурной линии. Настраиваемые цвета и размеры маркеров.",
     "author":        "Yaroslav I. Abramov",
-    "tpm_url":       "https://github.com/Y-Abramov/cursorsync/releases/download/v1.0.0/CursorSync-1.0.0.tpm",
-    "tpm_sha256":    "1e94417ee2b748b9a13a89a8280e10eb576128196e15e8de85850e2f667765d9",
+    "tpm_url":       "https://github.com/Y-Abramov/CursorSync/releases/download/v1.1.0/CursorSync-1.1.0.tpm",
+    "tpm_sha256":    "b4c6a618c1e47a16b731a6f16567cd40af9a3a7f6acda89458cdfcdde3883300",
     "min_version":   "16.0.62.12",
     "compatibility": [
       "Топоматик Robur — Автомобильные дороги",
@@ -47,11 +47,11 @@
   {
     "name":          "model-desk",
     "title":         "Диспетчер моделей",
-    "version":       "1.1.0",
-    "description":   "Диспетчер моделей проекта: список с фильтрацией по типу, управление видимостью, массовое переименование, статистика.",
+    "version":       "1.1.1",
+    "description":   "Диспетчер моделей проекта: список с фильтрацией по типу, управление видимостью, массовое переименование, статистика. Интерфейс диалогов переработан в едином фирменном стиле ABR.",
     "author":        "Yaroslav I. Abramov",
-    "tpm_url":       "https://github.com/Y-Abramov/ModelDesk/releases/download/v1.1.0/ModelDesk-1.1.0.tpm",
-    "tpm_sha256":    "8938ccf8ec43d14d0ffdc5811a7707c0b0ff6e028ee9a5a2253827bb861710a4",
+    "tpm_url":       "https://github.com/Y-Abramov/ModelDesk/releases/download/v1.1.1/ModelDesk-1.1.1.tpm",
+    "tpm_sha256":    "d1f584ca4bfdd9de59f0de839fa848052ac7605d9a962a4f680a652280020063",
     "min_version":   "16.0.62.12",
     "compatibility": [
       "Топоматик Robur — Автомобильные дороги",
@@ -65,11 +65,11 @@
   {
     "name":          "quick-commands",
     "title":         "Быстрые команды",
-    "version":       "1.0.0",
-    "description":   "Быстрый запуск команд Robur: палитра с поиском и опциональные нативные быстрые команды. Категории, импорт/экспорт наборов, защита от конфликтов имён.",
+    "version":       "1.1.0",
+    "description":   "Запуск команд Robur короткими псевдонимами: немодальная палитра поиска у курсора, ACAD-подобный ввод по буквам, нативные alias-команды. Родные иконки команд, поддержка русской раскладки, история и подменю в контекстном меню.",
     "author":        "Yaroslav I. Abramov",
-    "tpm_url":       "https://github.com/Y-Abramov/quickcommands/releases/download/v1.0.0/QuickCommands-1.0.0.tpm",
-    "tpm_sha256":    "b9e02e156686005dfab2765439c2662a866b0a16272b848582c0cbfc48c0c9d4",
+    "tpm_url":       "https://github.com/Y-Abramov/QuickCommands/releases/download/v1.1.0/QuickCommands-1.1.0.tpm",
+    "tpm_sha256":    "54052d7ec9129c0213c05d803170dc1641c5d396926435531d46b25a891f5e59",
     "min_version":   "16.0.62.12",
     "compatibility": [
       "Топоматик Robur — Автомобильные дороги",
