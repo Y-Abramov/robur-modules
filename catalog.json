@@ -3,7 +3,7 @@
     "name":          "abr-modules",
     "title":         "Библиотека модулей",
     "version":       "1.5.0",
-    "description":   "Общий компонент ABR: даёт вкладку и обновления всех модулей. При удалении все модули ABR исчезнут.",
+    "description":   "Общий компонент ABR: каталог, установка и обновление модулей, лента новостей. Переработан интерфейс (карточки/список, аккордеон-описание, теги совместимости), добавлены новости и поддержка дополнительных источников каталога. При удалении все модули ABR исчезнут.",
     "author":        "Yaroslav I. Abramov",
     "tpm_url":       "https://github.com/Y-Abramov/abrmodules/releases/download/v1.5.0/AbrModules-1.5.0.tpm",
     "tpm_sha256":    "b168c3668a5f513cdfecac0038177746da58de4d0bffb21622ba41c885c821d5",
@@ -70,6 +70,42 @@
     "author":        "Yaroslav I. Abramov",
     "tpm_url":       "https://github.com/Y-Abramov/quickcommands/releases/download/v1.0.0/QuickCommands-1.0.0.tpm",
     "tpm_sha256":    "b9e02e156686005dfab2765439c2662a866b0a16272b848582c0cbfc48c0c9d4",
+    "min_version":   "16.0.62.12",
+    "compatibility": [
+      "Топоматик Robur — Автомобильные дороги",
+      "Топоматик Robur — Изыскания",
+      "Топоматик Robur — Железные дороги",
+      "Топоматик Robur — Искусственные сооружения",
+      "Топоматик Robur — Инженерные сети",
+      "Топоматик Robur — Генеральные планы"
+    ]
+  },
+  {
+    "name":          "abr-theme",
+    "title":         "Диспетчер тем",
+    "version":       "1.0.0",
+    "description":   "Тёмная тема для Топоматик Robur: лента, диалоги, панели, canvas, гриды и заголовки окон. Переключение из ленты, требует перезапуск Robur.",
+    "author":        "Yaroslav I. Abramov",
+    "tpm_url":       "https://github.com/Y-Abramov/AbrTheme/releases/download/v1.0.0/AbrTheme-1.0.0.tpm",
+    "tpm_sha256":    "599af7505219411bc97e55b1cec8a2b7727594564d2a6ed66f8e8ffbc64c2a79",
+    "min_version":   "16.0.62.12",
+    "compatibility": [
+      "Топоматик Robur — Автомобильные дороги",
+      "Топоматик Robur — Изыскания",
+      "Топоматик Robur — Железные дороги",
+      "Топоматик Robur — Искусственные сооружения",
+      "Топоматик Robur — Инженерные сети",
+      "Топоматик Robur — Генеральные планы"
+    ]
+  },
+  {
+    "name":          "pave-plan",
+    "title":         "Мощение",
+    "version":       "1.0.0",
+    "description":   "Раскладка тротуарной плитки по контуру: схемы мощения, цветовые узоры, ведомости количества плиток.",
+    "author":        "Yaroslav I. Abramov",
+    "tpm_url":       "https://github.com/Y-Abramov/PavePlan/releases/download/v1.0.0/PavePlan-1.0.0.tpm",
+    "tpm_sha256":    "3dc34e9e7cf20edbbfc58cbbff4e76cb5907bd7cde6042c2adc8ccda59bd222d",
     "min_version":   "16.0.62.12",
     "compatibility": [
       "Топоматик Robur — Автомобильные дороги",
