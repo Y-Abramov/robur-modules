@@ -37,7 +37,7 @@
     "description":   "Синхронизация курсора между планом и профилем: дороги, железные дороги, инженерные сети (профиль ветки) и профиль сечения структурной линии. Настраиваемые цвета и размеры маркеров.",
     "author":        "Yaroslav I. Abramov",
     "tpm_url":       "https://github.com/Y-Abramov/CursorSync/releases/download/v1.1.0/CursorSync-1.1.0.tpm",
-    "tpm_sha256":    "b4c6a618c1e47a16b731a6f16567cd40af9a3a7f6acda89458cdfcdde3883300",
+    "tpm_sha256":    "f598e38792dec0ada4beb5efd3d17619a0d19af467ddfddd05aa35322d196323",
     "min_version":   "16.0.62.12",
     "compatibility": [
       "Топоматик Robur — Автомобильные дороги",
@@ -73,7 +73,7 @@
     "description":   "Запуск команд Robur короткими псевдонимами: немодальная палитра поиска у курсора, ACAD-подобный ввод по буквам, нативные alias-команды. Родные иконки команд, поддержка русской раскладки, история и подменю в контекстном меню.",
     "author":        "Yaroslav I. Abramov",
     "tpm_url":       "https://github.com/Y-Abramov/QuickCommands/releases/download/v1.1.0/QuickCommands-1.1.0.tpm",
-    "tpm_sha256":    "54052d7ec9129c0213c05d803170dc1641c5d396926435531d46b25a891f5e59",
+    "tpm_sha256":    "ddf31a3dd71190a09b2758ad8860e6953d231225ac9d88c78fa60846620b22c7",
     "min_version":   "16.0.62.12",
     "compatibility": [
       "Топоматик Robur — Автомобильные дороги",
@@ -109,7 +109,7 @@
     "description":   "Раскладка тротуарной плитки по контуру: схемы мощения, цветовые узоры, ведомости количества плиток.",
     "author":        "Yaroslav I. Abramov",
     "tpm_url":       "https://github.com/Y-Abramov/PavePlan/releases/download/v1.0.0/PavePlan-1.0.0.tpm",
-    "tpm_sha256":    "3dc34e9e7cf20edbbfc58cbbff4e76cb5907bd7cde6042c2adc8ccda59bd222d",
+    "tpm_sha256":    "6fc4bb87572c8e5bd9875462606d2b0fe59580d6d0c770cec936b0711d62dd30",
     "min_version":   "16.0.62.12",
     "compatibility": [
       "Топоматик Robur — Автомобильные дороги",
