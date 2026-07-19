@@ -7,7 +7,6 @@
     "author":        "Yaroslav I. Abramov",
     "tpm_url":       "https://github.com/Y-Abramov/abrmodules/releases/download/v1.5.0/AbrModules-1.5.0.tpm",
     "tpm_sha256":    "b168c3668a5f513cdfecac0038177746da58de4d0bffb21622ba41c885c821d5",
-    "help_url":      "https://abrmove.ru",
     "min_version":   "16.0.62.12",
     "compatibility": [
       "Топоматик Robur — Автомобильные дороги",
