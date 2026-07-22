@@ -7,6 +7,7 @@
     "author":        "Yaroslav I. Abramov",
     "tpm_url":       "https://github.com/Y-Abramov/abrmodules/releases/download/v1.5.0/AbrModules-1.5.0.tpm",
     "tpm_sha256":    "b168c3668a5f513cdfecac0038177746da58de4d0bffb21622ba41c885c821d5",
+    "help_url":      "https://abrmove.ru/modules/abr-modules/",
     "min_version":   "16.0.62.12",
     "compatibility": [
       "Топоматик Robur — Автомобильные дороги",
@@ -25,6 +26,7 @@
     "author":        "Yaroslav I. Abramov",
     "tpm_url":       "https://github.com/Y-Abramov/RoadStyle/releases/download/v1.0.3/RoadStyle-1.0.3.tpm",
     "tpm_sha256":    "219b8ceed348a2b69893b3fe356ae2f4f8c78c7e11e54ba5661f9bfee7b8a436",
+    "help_url":      "https://abrmove.ru/modules/road-style/",
     "min_version":   "16.0.62.12",
     "compatibility": [
       "Топоматик Robur — Автомобильные дороги"
@@ -38,6 +40,7 @@
     "author":        "Yaroslav I. Abramov",
     "tpm_url":       "https://github.com/Y-Abramov/CursorSync/releases/download/v1.1.0/CursorSync-1.1.0.tpm",
     "tpm_sha256":    "f598e38792dec0ada4beb5efd3d17619a0d19af467ddfddd05aa35322d196323",
+    "help_url":      "https://abrmove.ru/modules/cursor-sync/",
     "min_version":   "16.0.62.12",
     "compatibility": [
       "Топоматик Robur — Автомобильные дороги",
@@ -56,6 +59,7 @@
     "author":        "Yaroslav I. Abramov",
     "tpm_url":       "https://github.com/Y-Abramov/ModelDesk/releases/download/v1.1.1/ModelDesk-1.1.1.tpm",
     "tpm_sha256":    "d1f584ca4bfdd9de59f0de839fa848052ac7605d9a962a4f680a652280020063",
+    "help_url":      "https://abrmove.ru/modules/model-desk/",
     "min_version":   "16.0.62.12",
     "compatibility": [
       "Топоматик Robur — Автомобильные дороги",
@@ -74,6 +78,7 @@
     "author":        "Yaroslav I. Abramov",
     "tpm_url":       "https://github.com/Y-Abramov/QuickCommands/releases/download/v1.1.0/QuickCommands-1.1.0.tpm",
     "tpm_sha256":    "ddf31a3dd71190a09b2758ad8860e6953d231225ac9d88c78fa60846620b22c7",
+    "help_url":      "https://abrmove.ru/modules/quick-commands/",
     "min_version":   "16.0.62.12",
     "compatibility": [
       "Топоматик Robur — Автомобильные дороги",
@@ -92,6 +97,7 @@
     "author":        "Yaroslav I. Abramov",
     "tpm_url":       "https://github.com/Y-Abramov/AbrTheme/releases/download/v1.0.0/AbrTheme-1.0.0.tpm",
     "tpm_sha256":    "599af7505219411bc97e55b1cec8a2b7727594564d2a6ed66f8e8ffbc64c2a79",
+    "help_url":      "https://abrmove.ru/modules/abr-theme/",
     "min_version":   "16.0.62.12",
     "compatibility": [
       "Топоматик Robur — Автомобильные дороги",
@@ -110,6 +116,7 @@
     "author":        "Yaroslav I. Abramov",
     "tpm_url":       "https://github.com/Y-Abramov/PavePlan/releases/download/v1.0.0/PavePlan-1.0.0.tpm",
     "tpm_sha256":    "6fc4bb87572c8e5bd9875462606d2b0fe59580d6d0c770cec936b0711d62dd30",
+    "help_url":      "https://abrmove.ru/modules/pave-plan/",
     "min_version":   "16.0.62.12",
     "compatibility": [
       "Топоматик Robur — Автомобильные дороги",
