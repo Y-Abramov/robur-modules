@@ -2,11 +2,11 @@
   {
     "name":          "abr-modules",
     "title":         "Библиотека модулей",
-    "version":       "1.5.0",
+    "version":       "1.5.1",
     "description":   "Общий компонент ABR: каталог, установка и обновление модулей, лента новостей. Переработан интерфейс (карточки/список, аккордеон-описание, теги совместимости), добавлены новости и поддержка дополнительных источников каталога. При удалении все модули ABR исчезнут.",
     "author":        "Yaroslav I. Abramov",
-    "tpm_url":       "https://github.com/Y-Abramov/abrmodules/releases/download/v1.5.0/AbrModules-1.5.0.tpm",
-    "tpm_sha256":    "b168c3668a5f513cdfecac0038177746da58de4d0bffb21622ba41c885c821d5",
+    "tpm_url":       "https://github.com/Y-Abramov/abrmodules/releases/download/v1.5.1/AbrModules-1.5.1.tpm",
+    "tpm_sha256":    "6d10a68f5447b5061ac27aaa1cae241b205618853bb5b4d0cef1c647f6a2fd2d",
     "help_url":      "https://abrmove.ru/modules/abr-modules/",
     "min_version":   "16.0.62.12",
     "compatibility": [
@@ -35,11 +35,11 @@
   {
     "name":          "cursor-sync",
     "title":         "Отслеживание курсора",
-    "version":       "1.1.0",
+    "version":       "1.1.1",
     "description":   "Синхронизация курсора между планом и профилем: дороги, железные дороги, инженерные сети (профиль ветки) и профиль сечения структурной линии. Настраиваемые цвета и размеры маркеров.",
     "author":        "Yaroslav I. Abramov",
-    "tpm_url":       "https://github.com/Y-Abramov/CursorSync/releases/download/v1.1.0/CursorSync-1.1.0.tpm",
-    "tpm_sha256":    "f598e38792dec0ada4beb5efd3d17619a0d19af467ddfddd05aa35322d196323",
+    "tpm_url":       "https://github.com/Y-Abramov/CursorSync/releases/download/v1.1.1/CursorSync-1.1.1.tpm",
+    "tpm_sha256":    "79fb4ea84e72452d4ab1bdc879c25374e065df8bbaa28d087004a3723e0b29c4",
     "help_url":      "https://abrmove.ru/modules/cursor-sync/",
     "min_version":   "16.0.62.12",
     "compatibility": [
@@ -73,11 +73,11 @@
   {
     "name":          "quick-commands",
     "title":         "Быстрые команды",
-    "version":       "1.1.0",
+    "version":       "1.1.1",
     "description":   "Запуск команд Robur короткими псевдонимами: немодальная палитра поиска у курсора, ACAD-подобный ввод по буквам, нативные alias-команды. Родные иконки команд, поддержка русской раскладки, история и подменю в контекстном меню.",
     "author":        "Yaroslav I. Abramov",
-    "tpm_url":       "https://github.com/Y-Abramov/QuickCommands/releases/download/v1.1.0/QuickCommands-1.1.0.tpm",
-    "tpm_sha256":    "ddf31a3dd71190a09b2758ad8860e6953d231225ac9d88c78fa60846620b22c7",
+    "tpm_url":       "https://github.com/Y-Abramov/QuickCommands/releases/download/v1.1.1/QuickCommands-1.1.1.tpm",
+    "tpm_sha256":    "58fdb238e8a282b50675089e7fff9d524b0ae1196be642e0b8b2b6c39c5dac08",
     "help_url":      "https://abrmove.ru/modules/quick-commands/",
     "min_version":   "16.0.62.12",
     "compatibility": [
@@ -92,11 +92,11 @@
   {
     "name":          "abr-theme",
     "title":         "Диспетчер тем",
-    "version":       "1.0.0",
+    "version":       "1.0.1",
     "description":   "Тёмная тема для Топоматик Robur: лента, диалоги, панели, canvas, гриды и заголовки окон. Переключение из ленты, требует перезапуск Robur.",
     "author":        "Yaroslav I. Abramov",
-    "tpm_url":       "https://github.com/Y-Abramov/AbrTheme/releases/download/v1.0.0/AbrTheme-1.0.0.tpm",
-    "tpm_sha256":    "599af7505219411bc97e55b1cec8a2b7727594564d2a6ed66f8e8ffbc64c2a79",
+    "tpm_url":       "https://github.com/Y-Abramov/AbrTheme/releases/download/v1.0.1/AbrTheme-1.0.1.tpm",
+    "tpm_sha256":    "ad4847f142c94ca317fe3673c7e5250740258eccfd9c10e4338c47d77e2ffb2e",
     "help_url":      "https://abrmove.ru/modules/abr-theme/",
     "min_version":   "16.0.62.12",
     "compatibility": [
@@ -111,11 +111,11 @@
   {
     "name":          "pave-plan",
     "title":         "Мощение",
-    "version":       "1.0.0",
+    "version":       "1.0.1",
     "description":   "Раскладка тротуарной плитки по контуру: схемы мощения, цветовые узоры, ведомости количества плиток.",
     "author":        "Yaroslav I. Abramov",
-    "tpm_url":       "https://github.com/Y-Abramov/PavePlan/releases/download/v1.0.0/PavePlan-1.0.0.tpm",
-    "tpm_sha256":    "6fc4bb87572c8e5bd9875462606d2b0fe59580d6d0c770cec936b0711d62dd30",
+    "tpm_url":       "https://github.com/Y-Abramov/PavePlan/releases/download/v1.0.1/PavePlan-1.0.1.tpm",
+    "tpm_sha256":    "343cb075e68c2c15e6751df8d1430d578b1bf1203e80d6d0eab401ef5fbbbfa9",
     "help_url":      "https://abrmove.ru/modules/pave-plan/",
     "min_version":   "16.0.62.12",
     "compatibility": [
