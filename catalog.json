@@ -54,11 +54,11 @@
   {
     "name":          "model-desk",
     "title":         "Диспетчер моделей",
-    "version":       "1.1.1",
+    "version":       "1.1.2",
     "description":   "Диспетчер моделей проекта: список с фильтрацией по типу, управление видимостью, массовое переименование, статистика. Интерфейс диалогов переработан в едином фирменном стиле ABR.",
     "author":        "Yaroslav I. Abramov",
-    "tpm_url":       "https://github.com/Y-Abramov/ModelDesk/releases/download/v1.1.1/ModelDesk-1.1.1.tpm",
-    "tpm_sha256":    "d1f584ca4bfdd9de59f0de839fa848052ac7605d9a962a4f680a652280020063",
+    "tpm_url":       "https://github.com/Y-Abramov/ModelDesk/releases/download/v1.1.2/ModelDesk-1.1.2.tpm",
+    "tpm_sha256":    "21847595277ce48df7ca5dcdfd3fa543c36fb7054b2c6a4b0a0b50696383353d",
     "help_url":      "https://abrmove.ru/modules/model-desk/",
     "min_version":   "16.0.62.12",
     "compatibility": [
