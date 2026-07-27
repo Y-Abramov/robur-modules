@@ -6,7 +6,7 @@
     "description":   "Общий компонент ABR: каталог, установка и обновление модулей, лента новостей. Переработан интерфейс (карточки/список, аккордеон-описание, теги совместимости), добавлены новости и поддержка дополнительных источников каталога. При удалении все модули ABR исчезнут.",
     "author":        "Yaroslav I. Abramov",
     "tpm_url":       "https://github.com/Y-Abramov/abrmodules/releases/download/v1.5.1/AbrModules-1.5.1.tpm",
-    "tpm_sha256":    "6d10a68f5447b5061ac27aaa1cae241b205618853bb5b4d0cef1c647f6a2fd2d",
+    "tpm_sha256":    "2f6d411069d596f686c80f6198676e8c21e1db3510fe8b8226e17fb2a3c8b550",
     "help_url":      "https://abrmove.ru/modules/abr-modules/",
     "min_version":   "16.0.62.12",
     "compatibility": [
@@ -21,11 +21,11 @@
   {
     "name":          "road-style",
     "title":         "Диспетчер стилей",
-    "version":       "1.0.3",
+    "version":       "1.0.4",
     "description":   "Инструменты для управления конфигурациями слоёв и стилями отображения дорог. Применение, импорт и экспорт конфигураций, копирование настроек отображения трасс. Интерфейс диалогов переработан в едином фирменном стиле ABR.",
     "author":        "Yaroslav I. Abramov",
-    "tpm_url":       "https://github.com/Y-Abramov/RoadStyle/releases/download/v1.0.3/RoadStyle-1.0.3.tpm",
-    "tpm_sha256":    "219b8ceed348a2b69893b3fe356ae2f4f8c78c7e11e54ba5661f9bfee7b8a436",
+    "tpm_url":       "https://github.com/Y-Abramov/RoadStyle/releases/download/v1.0.4/RoadStyle-1.0.4.tpm",
+    "tpm_sha256":    "118a53922b8718f4e2b2660b0ca849c6339edf9366b061c2269643320d71d1b4",
     "help_url":      "https://abrmove.ru/modules/road-style/",
     "min_version":   "16.0.62.12",
     "compatibility": [
@@ -39,7 +39,7 @@
     "description":   "Синхронизация курсора между планом и профилем: дороги, железные дороги, инженерные сети (профиль ветки) и профиль сечения структурной линии. Настраиваемые цвета и размеры маркеров.",
     "author":        "Yaroslav I. Abramov",
     "tpm_url":       "https://github.com/Y-Abramov/CursorSync/releases/download/v1.1.1/CursorSync-1.1.1.tpm",
-    "tpm_sha256":    "79fb4ea84e72452d4ab1bdc879c25374e065df8bbaa28d087004a3723e0b29c4",
+    "tpm_sha256":    "fcb865c1475f88a679a3bc46b9a133ccafd8cb2b160106c8b091cfb183bb4289",
     "help_url":      "https://abrmove.ru/modules/cursor-sync/",
     "min_version":   "16.0.62.12",
     "compatibility": [
@@ -77,7 +77,7 @@
     "description":   "Запуск команд Robur короткими псевдонимами: немодальная палитра поиска у курсора, ACAD-подобный ввод по буквам, нативные alias-команды. Родные иконки команд, поддержка русской раскладки, история и подменю в контекстном меню.",
     "author":        "Yaroslav I. Abramov",
     "tpm_url":       "https://github.com/Y-Abramov/QuickCommands/releases/download/v1.1.1/QuickCommands-1.1.1.tpm",
-    "tpm_sha256":    "58fdb238e8a282b50675089e7fff9d524b0ae1196be642e0b8b2b6c39c5dac08",
+    "tpm_sha256":    "a51add8e9d7bf7175cf21ff1f48f034d356d1a98fc2396081d103c9127aab79c",
     "help_url":      "https://abrmove.ru/modules/quick-commands/",
     "min_version":   "16.0.62.12",
     "compatibility": [
@@ -96,7 +96,7 @@
     "description":   "Тёмная тема для Топоматик Robur: лента, диалоги, панели, canvas, гриды и заголовки окон. Переключение из ленты, требует перезапуск Robur.",
     "author":        "Yaroslav I. Abramov",
     "tpm_url":       "https://github.com/Y-Abramov/AbrTheme/releases/download/v1.0.1/AbrTheme-1.0.1.tpm",
-    "tpm_sha256":    "ad4847f142c94ca317fe3673c7e5250740258eccfd9c10e4338c47d77e2ffb2e",
+    "tpm_sha256":    "8d0290b12ece0ae16993c6e6cb267244a8fb1059d70132aa9f872ee49adc0128",
     "help_url":      "https://abrmove.ru/modules/abr-theme/",
     "min_version":   "16.0.62.12",
     "compatibility": [
@@ -115,7 +115,7 @@
     "description":   "Раскладка тротуарной плитки по контуру: схемы мощения, цветовые узоры, ведомости количества плиток.",
     "author":        "Yaroslav I. Abramov",
     "tpm_url":       "https://github.com/Y-Abramov/PavePlan/releases/download/v1.0.1/PavePlan-1.0.1.tpm",
-    "tpm_sha256":    "343cb075e68c2c15e6751df8d1430d578b1bf1203e80d6d0eab401ef5fbbbfa9",
+    "tpm_sha256":    "1816d46faba4013e500d272078b05f21907f2fd49bdee02e9954342c5b3e35df",
     "help_url":      "https://abrmove.ru/modules/pave-plan/",
     "min_version":   "16.0.62.12",
     "compatibility": [
