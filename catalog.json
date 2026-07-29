@@ -21,11 +21,11 @@
   {
     "name":          "road-style",
     "title":         "Диспетчер стилей",
-    "version":       "1.0.4",
+    "version":       "1.0.5",
     "description":   "Инструменты для управления конфигурациями слоёв и стилями отображения дорог. Применение, импорт и экспорт конфигураций, копирование настроек отображения трасс. Интерфейс диалогов переработан в едином фирменном стиле ABR.",
     "author":        "Yaroslav I. Abramov",
-    "tpm_url":       "https://github.com/Y-Abramov/RoadStyle/releases/download/v1.0.4/RoadStyle-1.0.4.tpm",
-    "tpm_sha256":    "118a53922b8718f4e2b2660b0ca849c6339edf9366b061c2269643320d71d1b4",
+    "tpm_url":       "https://github.com/Y-Abramov/RoadStyle/releases/download/v1.0.5/RoadStyle-1.0.5.tpm",
+    "tpm_sha256":    "b3997f853bc714e76f789e84f4f303e1c571c718042d6ce1d7389c8f5def6b48",
     "help_url":      "https://abrmove.ru/modules/road-style/",
     "min_version":   "16.0.62.12",
     "compatibility": [
@@ -54,11 +54,11 @@
   {
     "name":          "model-desk",
     "title":         "Диспетчер моделей",
-    "version":       "1.1.2",
-    "description":   "Диспетчер моделей проекта: список с фильтрацией по типу, управление видимостью, массовое переименование, статистика. Интерфейс диалогов переработан в едином фирменном стиле ABR.",
+    "version":       "1.2.0",
+    "description":   "Диспетчер моделей проекта: список с фильтрацией по типу, управление видимостью, массовое переименование, статистика. Подсветка активной модели. Проводник дороги (сводка, конструкция, копирование конструкции) и карточка модели с ведомостями. Интерфейс диалогов в едином фирменном стиле ABR.",
     "author":        "Yaroslav I. Abramov",
-    "tpm_url":       "https://github.com/Y-Abramov/ModelDesk/releases/download/v1.1.2/ModelDesk-1.1.2.tpm",
-    "tpm_sha256":    "21847595277ce48df7ca5dcdfd3fa543c36fb7054b2c6a4b0a0b50696383353d",
+    "tpm_url":       "https://github.com/Y-Abramov/ModelDesk/releases/download/v1.2.0/ModelDesk-1.2.0.tpm",
+    "tpm_sha256":    "d4f103b9897efc1f1f1989eb2b77d9c79457a128731d0e2799adbdffbae49f85",
     "help_url":      "https://abrmove.ru/modules/model-desk/",
     "min_version":   "16.0.62.12",
     "compatibility": [
@@ -73,11 +73,11 @@
   {
     "name":          "quick-commands",
     "title":         "Быстрые команды",
-    "version":       "1.1.1",
-    "description":   "Запуск команд Robur короткими псевдонимами: немодальная палитра поиска у курсора, ACAD-подобный ввод по буквам, нативные alias-команды. Родные иконки команд, поддержка русской раскладки, история и подменю в контекстном меню.",
+    "version":       "1.1.2",
+    "description":   "Запуск команд Robur короткими псевдонимами: немодальная палитра поиска у курсора, ACAD-подобный ввод по буквам, нативные alias-команды. Профили быстрых команд с переключением наборов. Родные иконки команд, поддержка русской раскладки, история и подменю в контекстном меню.",
     "author":        "Yaroslav I. Abramov",
-    "tpm_url":       "https://github.com/Y-Abramov/QuickCommands/releases/download/v1.1.1/QuickCommands-1.1.1.tpm",
-    "tpm_sha256":    "a51add8e9d7bf7175cf21ff1f48f034d356d1a98fc2396081d103c9127aab79c",
+    "tpm_url":       "https://github.com/Y-Abramov/QuickCommands/releases/download/v1.1.2/QuickCommands-1.1.2.tpm",
+    "tpm_sha256":    "1214651f4d520e8dbb001fdb601efcbbcadcb7c2908b7689067716d843b24b20",
     "help_url":      "https://abrmove.ru/modules/quick-commands/",
     "min_version":   "16.0.62.12",
     "compatibility": [
@@ -111,11 +111,11 @@
   {
     "name":          "pave-plan",
     "title":         "Мощение",
-    "version":       "1.0.1",
-    "description":   "Раскладка тротуарной плитки по контуру: схемы мощения, цветовые узоры, ведомости количества плиток.",
+    "version":       "1.0.2",
+    "description":   "Раскладка тротуарной плитки по контуру: схемы мощения, цветовые узоры, ведомости количества плиток. Кисточка для перекраски отдельных плиток.",
     "author":        "Yaroslav I. Abramov",
-    "tpm_url":       "https://github.com/Y-Abramov/PavePlan/releases/download/v1.0.1/PavePlan-1.0.1.tpm",
-    "tpm_sha256":    "1816d46faba4013e500d272078b05f21907f2fd49bdee02e9954342c5b3e35df",
+    "tpm_url":       "https://github.com/Y-Abramov/PavePlan/releases/download/v1.0.2/PavePlan-1.0.2.tpm",
+    "tpm_sha256":    "af31b28671ddc49e6eed8c92918655627de9f6955c64cc8a0d115839018c9e8d",
     "help_url":      "https://abrmove.ru/modules/pave-plan/",
     "min_version":   "16.0.62.12",
     "compatibility": [
