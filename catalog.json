@@ -128,6 +128,35 @@
     ]
   },
   {
+    "name":          "pave-detail",
+    "title":         "Детали покрытий",
+    "version":       "1.0.0",
+    "description":   "Чертежи узлов дорожной одежды по регионам площадки: разрез со штриховками, экспликация, ведомость состава конструкций.",
+    "author":        "Yaroslav I. Abramov",
+    "tpm_url":       "https://github.com/Y-Abramov/PaveDetail/releases/download/v1.0.0/PaveDetail-1.0.0.tpm",
+    "tpm_sha256":    "a9afe873f95249521331f202897bbc1ba8cabba8cb0adc09e03c7e7ac6cc18ca",
+    "help_url":      "https://abrmove.ru/modules/pave-detail/",
+    "min_version":   "16.0.62.12",
+    "compatibility": [
+      "Топоматик Robur — Автомобильные дороги",
+      "Топоматик Robur — Генеральные планы"
+    ]
+  },
+  {
+    "name":          "dem-loader",
+    "title":         "Загрузка рельефа",
+    "version":       "1.0.0",
+    "description":   "Загрузка рельефа местности из открытых данных (Copernicus DEM, OpenTopography) и построение цифровой модели местности по выбранной области - рамкой или замкнутой полилинией.",
+    "author":        "Yaroslav I. Abramov",
+    "tpm_url":       "https://github.com/Y-Abramov/DemLoader/releases/download/v1.0.0/DemLoader-1.0.0.tpm",
+    "tpm_sha256":    "0e42e1bbd96db9a78879bf16af76631721a522230c1ede36b9bb93ecea8453c7",
+    "help_url":      "https://abrmove.ru/modules/dem-loader/",
+    "min_version":   "16.0.62.12",
+    "compatibility": [
+      "Топоматик Robur — Автомобильные дороги"
+    ]
+  },
+  {
     "name":          "abr-runoff",
     "title":         "Схема стока",
     "version":       "1.0.1",
