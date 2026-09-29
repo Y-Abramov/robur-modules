@@ -21,11 +21,11 @@
   {
     "name":          "road-style",
     "title":         "Диспетчер стилей",
-    "version":       "1.0.5",
-    "description":   "Инструменты для управления конфигурациями слоёв и стилями отображения дорог. Применение, импорт и экспорт конфигураций, копирование настроек отображения трасс. Интерфейс диалогов переработан в едином фирменном стиле ABR.",
+    "version":       "1.1.1",
+    "description":   "Пресеты слоёв для любых моделей проекта и стили отображения дорог. Пресет сохраняется один раз и применяется к выбранным моделям с отчётом о совпавших слоях; импорт и экспорт XML, копирование настроек отображения трасс, стили .rdprofile.",
     "author":        "Yaroslav I. Abramov",
-    "tpm_url":       "https://github.com/Y-Abramov/RoadStyle/releases/download/v1.0.5/RoadStyle-1.0.5.tpm",
-    "tpm_sha256":    "b3997f853bc714e76f789e84f4f303e1c571c718042d6ce1d7389c8f5def6b48",
+    "tpm_url":       "https://github.com/Y-Abramov/RoadStyle/releases/download/v1.1.1/RoadStyle-1.1.1.tpm",
+    "tpm_sha256":    "4ef850b0ccc798206e07be51842744815963c0726f66b409d370e6273c6b94ae",
     "help_url":      "https://abrmove.ru/modules/road-style/",
     "min_version":   "16.0.62.12",
     "compatibility": [
@@ -164,11 +164,11 @@
   {
     "name":          "abr-runoff",
     "title":         "Схема стока",
-    "version":       "1.1.0",
-    "description":   "Анализ направления стока по запроектированным профилям кюветов: стрелки течения на плане, водоразделы, точки сбора воды, контроль уклонов и бессточных понижений, ведомость участков. Сеть водоотвода по нескольким моделям с трассировкой и ведомостью по бассейнам.",
+    "version":       "1.1.1",
+    "description":   "Анализ направления стока по запроектированным профилям кюветов: стрелки течения на плане, водоразделы, точки сбора воды, контроль уклонов и бессточных понижений, ведомость участков. Сеть водоотвода по нескольким моделям с трассировкой и ведомостью по бассейнам. Водосбор по поверхности как штатный «Сток воды»: площадь, главный лог, уклоны, профиль лога.",
     "author":        "Yaroslav I. Abramov",
-    "tpm_url":       "https://github.com/Y-Abramov/Runoff/releases/download/v1.1.0/Runoff-1.1.0.tpm",
-    "tpm_sha256":    "b66c889e0b498b8aee150f2fa82e91b43e1f7d2fabc88da9939f495efd0f08a3",
+    "tpm_url":       "https://github.com/Y-Abramov/Runoff/releases/download/v1.1.1/Runoff-1.1.1.tpm",
+    "tpm_sha256":    "a54bf9b60236ebf41bd2bcdd8185ba192c56b13f010098980143ca5789cc9857",
     "help_url":      "https://abrmove.ru/modules/runoff/",
     "min_version":   "16.0.62.12",
     "compatibility": [
