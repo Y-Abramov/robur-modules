@@ -188,11 +188,11 @@
   {
     "name":          "block-manager",
     "title":         "Диспетчер блоков",
-    "version":       "1.0.0",
+    "version":       "1.0.1",
     "description":   "Редактор блока в окне поверх чертежа с отменой и базовой точкой, динамические блоки с ручками, вариантами и типоразмерами, палитра блоков чертежа и библиотеки. Пакетно: переименование, замена, переопределение, вставка по точкам, линии, CSV и пикетам; таблица вставок, синхронизация атрибутов, ведомость, нормализация и перенос базы.",
     "author":        "Yaroslav I. Abramov",
-    "tpm_url":       "https://github.com/Y-Abramov/BlockManager/releases/download/v1.0.0/BlockManager-1.0.0.tpm",
-    "tpm_sha256":    "dd12c781a6bb18c65cbc05f18b32a2f2148b4d61731190d37c7ee04b5c2faafc",
+    "tpm_url":       "https://github.com/Y-Abramov/BlockManager/releases/download/v1.0.1/BlockManager-1.0.1.tpm",
+    "tpm_sha256":    "bb3404e00f1e14633020bdaed5fd394d5c6e7be6d0196576dd803322fa5d4fdd",
     "help_url":      "https://abrmove.ru/modules/block-manager/",
     "min_version":   "16.0.62.12",
     "compatibility": [
