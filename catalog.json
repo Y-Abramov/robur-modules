@@ -169,11 +169,11 @@
   {
     "name":          "abr-runoff",
     "title":         "Схема стока",
-    "version":       "1.1.1",
+    "version":       "1.1.2",
     "description":   "Анализ направления стока по запроектированным профилям кюветов: стрелки течения на плане, водоразделы, точки сбора воды, контроль уклонов и бессточных понижений, ведомость участков. Сеть водоотвода по нескольким моделям с трассировкой и ведомостью по бассейнам. Водосбор по поверхности как штатный «Сток воды»: площадь, главный лог, уклоны, профиль лога.",
     "author":        "Yaroslav I. Abramov",
-    "tpm_url":       "https://github.com/Y-Abramov/Runoff/releases/download/v1.1.1/Runoff-1.1.1.tpm",
-    "tpm_sha256":    "a54bf9b60236ebf41bd2bcdd8185ba192c56b13f010098980143ca5789cc9857",
+    "tpm_url":       "https://github.com/Y-Abramov/Runoff/releases/download/v1.1.2/Runoff-1.1.2.tpm",
+    "tpm_sha256":    "ee925018139470ee65e2f6e53e4e6a8764bdc814940a40ce5373575f8381a8e6",
     "help_url":      "https://abrmove.ru/modules/runoff/",
     "min_version":   "16.0.62.12",
     "compatibility": [
