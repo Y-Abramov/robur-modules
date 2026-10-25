@@ -207,11 +207,11 @@
   {
     "name":          "modconstructor",
     "title":         "Конструктор модификаторов",
-    "version":       "1.1.0",
+    "version":       "1.1.1",
     "description":   "Свои модификаторы площадок: соберите их в окне конструктора из линий и штатных модификаторов Robur, вынесите настройки в параметры и применяйте шаблоном. Узел дорог одной кнопкой: поворот, Т-образное примыкание, примыкание трёх проезжих частей и перекрёстки строятся по готовым дорогам. Заполнение и удаление модификаторов щелчком на плане.",
     "author":        "Yaroslav I. Abramov",
-    "tpm_url":       "https://github.com/Y-Abramov/ModConstructor/releases/download/v1.1.0/ModConstructor-1.1.0.tpm",
-    "tpm_sha256":    "5a8bd5e8665bc62386da9a6113b4235cd45ddc8428c23c4ab80ec31a23ef2ed1",
+    "tpm_url":       "https://github.com/Y-Abramov/ModConstructor/releases/download/v1.1.1/ModConstructor-1.1.1.tpm",
+    "tpm_sha256":    "23c1a29a3d92b8ef2bd21c9f6643f4d4f2ec60fa80c4584832354a9faa164d6c",
     "help_url":      "https://abrmove.ru/modules/mod-constructor/",
     "min_version":   "16.0.62.12",
     "compatibility": [
