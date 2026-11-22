@@ -232,7 +232,7 @@
     "tpm_url":       "https://github.com/Y-Abramov/AbrScript/releases/download/v1.0.0/AbrScript-1.0.0.tpm",
     "tpm_sha256":    "2345f2a1e9b57c33397412f7a042366a3063efc89952f025db534725e911f4bd",
     "help_url":      "https://abrmove.ru/modules/abr-script/",
-    "min_version":   "16.0.62.29",
+    "min_version":   "16.0.66.1",
     "compatibility": [
       "Топоматик Robur — Автомобильные дороги",
       "Топоматик Robur — Изыскания",
